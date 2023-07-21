@@ -24,14 +24,14 @@ html, body {
 }
 .vh-menu::after {
 	display: inline-block;
-	content: url(./image/list.png);
+	content: url(../image/list.png);
 	margin-right: 10px;
   padding: 10px;
   position: relative;
   top: 7px;
 }
 .vh-slider {
-  background: url(./image/background_slider.png) no-repeat;
+  background: url(../image/background_slider.png) no-repeat;
   background-position: center;
   position: relative;
   height: 100vh;
@@ -123,7 +123,7 @@ html, body {
   color: #363d45;
 }
 .vh-newletter {
-  background: url(./image/background_newsletter_.png)  no-repeat;
+  background: url(../image/background_newsletter_.png)  no-repeat;
   background-position: right;
   display: flex;
   justify-content: center;
@@ -239,7 +239,7 @@ html, body {
   color: white;
 }
 .vh-wcs {
-  background-image: url(./image/background_wcs.png);
+  background-image: url(../image/background_wcs.png);
   background-position: center;
   display: flex;
   justify-content: space-around;
@@ -300,13 +300,13 @@ html, body {
   width: 235px;
 }
 .vh-gail {
-  background: url(./image/wcs_gailg.png) no-repeat;
+  background: url(../image/wcs_gailg.png) no-repeat;
   display: block;
   width: 235px;
   height: 284px;
 }
 .vh-gail:hover {
-  background: url(./image/wcs_gail.png) no-repeat;
+  background: url(../image/wcs_gail.png) no-repeat;
   border-bottom: 5px solid #f7600e;
   border-bottom-left-radius: 9px;
   border-bottom-right-radius: 9px;
@@ -315,7 +315,7 @@ html, body {
   color: #3b434c;
 }
 .vh-hervay {
-  background: url(./image/wcs_harwey.png) no-repeat;
+  background: url(../image/wcs_harwey.png) no-repeat;
   display: block;
   width: 235px;
   height: 284px;
@@ -324,29 +324,29 @@ html, body {
   border-bottom-right-radius: 9px;
 }
 .vh-hervay:hover {
-  background: url("./image/wcs_harwey_.png") no-repeat;
+  background: url("../image/wcs_harwey_.png") no-repeat;
   border-bottom: 5px solid #f7600e;
 }
 .vh-janet {
-  background: url(./image/wcs_janetp.png) no-repeat;
+  background: url(../image/wcs_janetp.png) no-repeat;
   display: block;
   width: 235px;
   height: 284px;
 }
 .vh-janet:hover {
-  background: url("./image/wcs_janet.png") no-repeat;
+  background: url("../image/wcs_janet.png") no-repeat;
   border-bottom: 5px solid #f7600e;
   border-bottom-left-radius: 9px;
   border-bottom-right-radius: 9px;
 }
 .vh-kevin {
-  background: url(./image/wcs_kevinw.png) no-repeat;
+  background: url(../image/wcs_kevinw.png) no-repeat;
   display: block;
   width: 235px;
   height: 284px;
 }
 .vh-kevin:hover {
-  background: url("./image/wcs_kevin.png") no-repeat;
+  background: url("../image/wcs_kevin.png") no-repeat;
   border-bottom: 5px solid #f7600e;
   border-bottom-left-radius: 9px;
   border-bottom-right-radius: 9px;
@@ -356,14 +356,14 @@ html, body {
     width: 25px;
     height: 25px;
     margin-right: 5px;
-    background: url("./image/smedia_icons.png") no-repeat;
+    background: url("../image/smedia_icons.png") no-repeat;
 }
 .vh-social:hover {
   display: inline-block;
   width: 25px;
   height: 25px;
   margin-right: 5px;
-  background: url("./image/social_icons.png") no-repeat;
+  background: url("../image/social_icons.png") no-repeat;
 }
 .vh-fb {
   background-position: 0 0;
@@ -398,7 +398,7 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: url(./image/background_city.png) no-repeat;
+  background: url(../image/background_city.png) no-repeat;
   background-position: center;
   color: white;
 }
@@ -457,7 +457,7 @@ html, body {
 }
 .vh-media {
   padding: 43px 25px;
-  background: url("./image/social_sedia_contacts.png") no-repeat;
+  background: url("../image/social_sedia_contacts.png") no-repeat;
   z-index: 2;
 }
 .vh-fb1 {
@@ -488,7 +488,7 @@ html, body {
   }
 .vh-small::after {
   /*display: inline-block;*/
-  content: url(./image/logo-small-white.png);
+  content: url(../image/logo-small-white.png);
   padding: 5px;
   position: relative;
 }
