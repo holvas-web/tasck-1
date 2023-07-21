@@ -24,14 +24,14 @@ html, body {
 }
 .vh-menu::after {
 	display: inline-block;
-	content: url(../image/list.png);
+	content: url(./image/list.png);
 	margin-right: 10px;
   padding: 10px;
   position: relative;
   top: 7px;
 }
 .vh-slider {
-  background: url(../image/background_slider.png) no-repeat;
+  background: url(./image/background_slider.png) no-repeat;
   background-position: center;
   position: relative;
   height: 100vh;
